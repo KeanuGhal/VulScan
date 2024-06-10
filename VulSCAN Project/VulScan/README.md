@@ -1,0 +1,2 @@
+# VulScan
+ This is a vulnerability scanner for local devices that prioritizes knowledge done through security blue training "Introduction to Threat Hunting". I used the knowledge gained by that to create a fast scanner to identify Indicators of Compromise (IoC) by extrapolating the file size, md5 hash and sha256 hash. Once a potential Area of Compromise is identified this application can scan that AoC for the same identifiers and do a comparison scan to see if there is a match between the AoC of concern and the stored IoCs. More features to be added in the future.

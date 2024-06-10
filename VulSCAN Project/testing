@@ -1,0 +1,4 @@
+from datetime import datetime
+
+current = datetime.now()
+print('Current date and timeL', current)
